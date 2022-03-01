@@ -1,0 +1,31 @@
+segment_sources:
+  PD8D8BFC8:
+    type: origin_type
+    relation: translation
+    language: en
+  PE98E4990:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  0ac729bdee124cb7a4a318b4f0c400a4:
+    PD8D8BFC8: 64e32f0dc9ae4b509455803f9aa9a8ad
+    PE98E4990: 7b6e3f971039422c85f1d0b7f56880b0
+  f25cdcf160fd4ad79a7d3d1097f05e15:
+    PD8D8BFC8: 340d71b6baec4de3b47911a8ff087522
+    PE98E4990: 15111242e7ad414caf12b279944ff833
+  28fc57dc64b14a5a9d4588c1dae53e5e:
+    PD8D8BFC8: 63ac733245404b78b3a655864418843e
+    PE98E4990: c98e6d3b735b48798af6450e3731ff42
+  585cddf378a047a5936177a6cfff9861:
+    PD8D8BFC8: 0b1997f7dfbb48fd8d80e28047ec7e30
+    PE98E4990: af9133179c4346cb9605ff5632e7df5a
+  2d06f783e39345a08c481c99c52386bd:
+    PD8D8BFC8: a3a004b51d984be5bff04fd28a45ffbf
+    PE98E4990: 3cc99b8f51b04716aac7395b29e826d4
+  63c6af1d832e4d63a76a021c4fbee2a5:
+    PD8D8BFC8: 89789c4eead64bc78f4e2b2189fd558b
+    PE98E4990: c92aeacf73b041549627afe3ed60f9d4
+  b4fd90545089468cbe37341bf3442579:
+    PD8D8BFC8: 54f5e3b43a4048bdb71f1a7702cfae75
+    PE98E4990: 2d2e433bdeab4a66b615b040491f4b63
